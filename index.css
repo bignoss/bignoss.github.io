@@ -4,7 +4,9 @@
 }
 
 body{
-    background-color: #230289;
+    background-image: url(./image/landscape.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
     color:#fff;
 }
